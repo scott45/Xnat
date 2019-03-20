@@ -3,9 +3,9 @@
 
 set -e
 
-cmd="$@"
+cmd="/usr/local/tomcat/bin/catalina.sh run"
 
-until psql -U "$XNAT_DATASOURCE_USERNAME" -h xnat-db -c '\q'; do
+until psql -U "$XNAT_DATASOURCE_USERNAME" -h localhost -c '\q'; do
   >&2 echo "Postgres is unavailable - sleeping"
   sleep 5
 done
