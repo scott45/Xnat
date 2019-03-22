@@ -1,4 +1,4 @@
-# Dockerized XNAT
+# Dockerized XNAT (Scott custom)
 Use this repository to quickly deploy an [XNAT](https://xnat.org/) instance on [docker](https://www.docker.com/).
 
 ## Introduction
