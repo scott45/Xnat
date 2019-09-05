@@ -1,4 +1,4 @@
-# Dockerized XNAT (Scott custom single image setup) multi-stage builds
+# Dockerized XNAT (Scott custom single image setup) Multi-stage builds
 Use this repository to quickly deploy an [XNAT](https://xnat.org/) instance on [docker](https://www.docker.com/).
 
 ## Introduction
