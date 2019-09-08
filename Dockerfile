@@ -24,7 +24,7 @@ EXPOSE 5432
 
 # ENTRYPOINT ["/scripts/run.sh"]
 
-# app build
+# running app build
 FROM tomcat:7-jre8-alpine
 
 WORKDIR /app
