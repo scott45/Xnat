@@ -13,6 +13,7 @@ This repository contains files to bootstrap XNAT deployment. The build creates t
 
 * [docker](https://www.docker.com/)
 * [docker-compose](http://docs.docker.com/compose) (Which is installed along with docker if you download it from their site)
+* [supervisord]
 
 ## Usage
 
