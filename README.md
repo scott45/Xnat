@@ -33,7 +33,7 @@ $ cd xnat-docker-compose
         * If you need to control some arguments that get sent to tomcat on startup, you can modify the `CATALINA_OPTS` environment variable (under `services → xnat-web → environment`).
     - **xnat/Dockerfile**: Builds the xnat-web image from a tomcat docker image.
 
-3. Start the system
+3. Start the system.
 
 ```
 $ docker-compose up -d
