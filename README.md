@@ -15,7 +15,7 @@ This repository contains files to bootstrap XNAT deployment. The build creates t
 * [docker-compose](http://docs.docker.com/compose) (Which is installed along with docker if you download it from their site)
 * [supervisord]
 
-## Usage
+## Usage.
 
 
 1. Clone the [xnat-docker-compose](https://github.com/NrgXnat/xnat-docker-compose) repository.
