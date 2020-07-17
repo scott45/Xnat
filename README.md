@@ -69,7 +69,7 @@ xnat-web_1    | INFO: Server startup in 84925 ms
 
 Your XNAT will soon be available at http://localhost.
 
-## Mounted Data
+## Mounted Data.
 
 When you bring up XNAT with `docker-compose up`, several directories are created (if they don't exist already) to store the persistant data.
 
