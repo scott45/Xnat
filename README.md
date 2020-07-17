@@ -9,7 +9,7 @@ This repository contains files to bootstrap XNAT deployment. The build creates t
 - [**Postgres**](https://www.postgresql.org/): The XNAT database
 - [**nginx**](https://www.nginx.com/): Web proxy sitting in front of XNAT
 
-## Prerequisites
+## Prerequisites.
 
 * [docker](https://www.docker.com/)
 * [docker-compose](http://docs.docker.com/compose) (Which is installed along with docker if you download it from their site)
