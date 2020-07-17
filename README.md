@@ -1,7 +1,7 @@
 # Dockerized XNAT (Custom Single Image Setup) Multi-stage builds.
 Use this repository to quickly deploy an [XNAT](https://xnat.org/) instance on [docker](https://www.docker.com/).
 
-## Introduction
+## Introduction.
 
 This repository contains files to bootstrap XNAT deployment. The build creates three containers:
 
